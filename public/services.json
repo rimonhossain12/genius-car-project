@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "BRAKE REPARING",
+    "price": 2000,
+    "time": 2,
+    "img": "https://images.unsplash.com/photo-1505461560638-05d8740c0a73?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTAyfHxjYXIlMjBtZWNoYW5pY3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "descritpion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur, dolor nam. Exercitationem fuga iure numquam suscipit saepe, amet repudiandae ducimus?"
+  },
+  {
+    "id": 2,
+    "name": "WASH AND GLASSING",
+    "price": 2000,
+    "time": 2,
+    "img": "https://i.ibb.co/XZwBs7n/Two-car-mechanic-students-working-in-garage-at-FE-college-young-woman-learning-mechanical-skills.jpg",
+    "descritpion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur, dolor nam. Exercitationem fuga iure numquam suscipit saepe, amet repudiandae ducimus?"
+  },
+  {
+    "id": 3,
+    "name": "COMPLETE ANALYSIS",
+    "price": 2000,
+    "time": 2,
+    "img": "https://i.ibb.co/vPMjZtZ/Auto-mechanic-hands-using-wrench-to-repair-a-car-engine-concepts-of-car-insurance-support-and-servic.jpg",
+    "descritpion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur, dolor nam. Exercitationem fuga iure numquam suscipit saepe, amet repudiandae ducimus?"
+  },
+  {
+    "id": 4,
+    "name": "ENGINE DIAGNOSTIC",
+    "price": 2000,
+    "time": 2,
+    "img": "https://media.istockphoto.com/photos/woman-repairing-a-car-in-auto-repair-shop-picture-id1175888628?s=612x612",
+    "descritpion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur, dolor nam. Exercitationem fuga iure numquam suscipit saepe, amet repudiandae ducimus?"
+  },
+  {
+    "id": 5,
+    "name": "OIL CHANGING",
+    "price": 2000,
+    "time": 2,
+    "img": "https://images.unsplash.com/photo-1568236700632-c0cfc08f486a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGNhciUyMG1lY2hhbmljfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "descritpion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur, dolor nam. Exercitationem fuga iure numquam suscipit saepe, amet repudiandae ducimus?"
+  },
+  {
+    "id": 6,
+    "name": "COLORING SPOLLISH",
+    "price": 2000,
+    "time": 2,
+    "img": "https://i.ibb.co/9pdDhb3/Car-mechanic-man-at-the-garage-fixing-the-engine-Hands-of-car-mechanic-with-wrench-in-garage-Close-u.jpg",
+    "descritpion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur, dolor nam. Exercitationem fuga iure numquam suscipit saepe, amet repudiandae ducimus?"
+  },
+  {
+    "id": 7,
+    "name": "ENGINE TESTER",
+    "price": 2000,
+    "time": 2,
+    "img": "https://i.ibb.co/VVrnr1N/Car-mechanics-workers-customers-satisfaction-Auto-car-repair-service-center.jpg",
+    "descritpion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur, dolor nam. Exercitationem fuga iure numquam suscipit saepe, amet repudiandae ducimus?"
+  }
+]
